@@ -160,7 +160,7 @@ require_once 'common/navBar.php';
 
             <hr class="hr1">
 
-            <div class="row logos">
+            <!-- <div class="row logos">
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
                     <a href="#"><img src="../uploads/logo_01.png" alt="" class="img-repsonsive"></a>
                 </div>
@@ -179,7 +179,8 @@ require_once 'common/navBar.php';
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
                     <a href="#"><img src="../uploads/logo_06.png" alt="" class="img-repsonsive"></a>
                 </div>
-            </div><!-- end row -->
+            </div> -->
+            <!-- end row -->
 
         </div><!-- end container -->
     </div><!-- end section -->

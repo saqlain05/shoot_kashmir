@@ -101,7 +101,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s1.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s1.jpg" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3>Location And Scouting</h3>
@@ -113,7 +113,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s2.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s2.png" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s2.png" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3>Permission & Permits</h3>
@@ -125,7 +125,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s3.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s3.png" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s3.png" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3>Security & Safty</h3>
@@ -137,7 +137,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s4.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s4.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s4.jpg" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3>TALENT & CASTING </h3>
@@ -149,7 +149,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s5.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s5.png" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s5.png" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3> BUDGETING & ACCOUNTING  </h3>
@@ -161,7 +161,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s6.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s6.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s6.jpg" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3>TRAVEL & TRANSPORTATION </h3>
@@ -185,7 +185,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s7.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s7.png" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s7.png" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3>MEN AND MACHINERY  </h3>
@@ -197,7 +197,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s8.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s8.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s8.jpg" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3>ART AND CRAFT  </h3>
@@ -209,7 +209,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s10.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s10.png" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s10.png" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3> EQUPIMENT RENTALS  </h3>
@@ -230,7 +230,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;" style="height: 100rem; ">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s11.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s11.png" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s11.png" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3> CATERING  </h3>
@@ -247,7 +247,7 @@ require_once 'common/navBar.php';
                 <div class="service-widget" style="height:100rem;">
                     <div class="post-media wow fadeIn">
                         <a href="servicesimages/s12.png" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="servicesimages/s12.png" alt="" class="img-responsive img-rounded">
+                        <img src="servicesimages/s12.png" alt="" class="img-responsive img-rounded" id="saq_img">
                     </div>
 					<div class="service-dit">
 						<h3> ACCOMIDATION </h3>
@@ -278,3 +278,9 @@ require_once 'common/navBar.php';
 
 require_once 'common/newFooter.php';
 ?>
+
+<style>
+    #saq_img{
+        height: 30rem;
+    }
+</style>

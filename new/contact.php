@@ -91,8 +91,8 @@ require_once 'common/navBar.php';
             </div><!-- end row -->
 			
 			<div class="row">
-				<div class="col-md-offset-1 col-sm-10 col-md-10 col-sm-offset-1 pd-add">
-					<div class="address-item">
+				<div class="col-md-offset-1 col-sm-10 col-md-10 col-sm-offset-1 pd-add" id="saq_div">
+					<div class="address-item" id="saq_item">
 						<div class="address-icon">
 							<i class="icon icon-location2"></i>
 						</div>
@@ -100,21 +100,21 @@ require_once 'common/navBar.php';
 						<p>Baran Pathar, Haftchinar, Hotel New Sunshine, stadium Road,
 							Iqbal Park, Srinagar - 190009 , Kashmir, India</p>
 					</div>
-					<div class="address-item">
+					<div class="address-item" id="saq_item">
 						<div class="address-icon">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</div>
 						<h3>Email Us</h3>
 						<p>irshad.bashir007@gmail.com
-							<br> <br> <br> </p>
+							 </p>
 					</div>
-					<div class="address-item">
+					<div class="address-item"  id="saq_item">
 						<div class="address-icon">
 							<i class="icon icon-headphones"></i>
 						</div>
 						<h3>Call Us</h3>
 						<p>+91 9419018941
-							<br> www.shootkashmir.com <br> <br> </p>
+							<br> www.shootkashmir.com  </p>
 					</div>
 				</div>
 			</div><!-- end row -->
@@ -127,3 +127,17 @@ require_once 'common/navBar.php';
 
 require_once 'common/newFooter.php';
 ?>
+
+<style>
+    #saq_item{
+        height:25rem;
+        width:25rem
+    }
+    #saq_div{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-wrap:wrap;
+        gap:.5rem
+    }
+</style>

@@ -18,7 +18,7 @@
                         </div>
 
                         <ul class="footer-links hov">
-                        <li><a href="../index.html">Home <span class="icon icon-arrow-right2"></span></a></li>
+                        <li><a href="../index.php">Home <span class="icon icon-arrow-right2"></span></a></li>
 							<li><a href="about.php">About Us <span class="icon icon-arrow-right2"></span></a></li>
 							<li><a href="work.php">Our Work <span class="icon icon-arrow-right2"></span></a></li>
 							<li><a href="team.php">Team <span class="icon icon-arrow-right2"></span></a></li>

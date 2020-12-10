@@ -97,7 +97,7 @@
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
 
-                    <li><a  class="active" href="../index.html" style="color: white;">Home</a></li>
+                    <li><a  class="active" href="../index.php" style="color: white;">Home</a></li>
                         <li><a class="active" href="about.php" style="color: white;">About us</a></li>
                         <li><a class="active" href="work.php" style="color: white;">Our Works</a></li>
                         <li><a class="active" href="team.php" style="color: white;">Team</a></li>

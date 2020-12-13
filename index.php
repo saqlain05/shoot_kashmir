@@ -693,7 +693,7 @@ eiusmod. tempor incididunt ut labore et dolore</p>
 </body>
 <style>
  #saq_item{
-        height:30rem;
+        height:25rem;
         width:28rem;
     }
     #saq_div{

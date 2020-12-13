@@ -62,9 +62,22 @@ require_once 'common/navBar.php';
         <h6>Experience: 3 years with Zee Kashmir as Programme Director Associate Director in Film “Kashmir in Search of Kashmiriyat” for Films Division I&B Ministry of India. Kashmir Line producer of bollywood Film “Chase” Directed by Hollywood Director Mr. Jag Mohan Mundra. Programme Director Live Video coverage 70th AGM year 2008 J&K Bank.</h6>
         </div>
     </div>
+    </div> <br>
     <div id="saq_card">
-        <!-- <h1>sa</h1> -->
+        <div id="saq_img"><img src="images/Arshid shakir profl pic2.jpg" alt ="miss" /> <br>
+        <p style="text-align:center;"><b> MR. ARSHID SHAKIR , Line Producer</b> <br> <b>Production House: </b> M/S SHAMPA MOVIES </p> </div>
+        <div id="saq_item">
+        <p>FATHER: SHEIKH BASHIR AHMED.</p>
+        <p>Residence: Baran Pather Haft Chinar, Stadium Road Iqbal Park Srinagar Kashmir, INDIAN</p>
+        <p>Qualification: B.A Graduate Diploma in Journalism & Masscom (Molana Azad Urdu University Hyderabad) 3 Months regular Radio & TV productions Training (EMMRC & DLL Kashmir)</p>
+        <p>Languages Known: Kashmiri/Urdu/ English</p>
+        <p>EMPLOYMENT STATUS: Freelance in; Television & Films,
+
+        BRIEF WORK EXPERIENCE STATUS: Worked with Doordarshan, Zee Telefilms Ltd (Zee Kashmir), Bollywood. Empanelled Producer of Doordarshan / Kashir Channel (Language: Kashmiri & Urdu) Category –A / 1/2/296/486/09-KC</p>
+        <h6>Experience: 3 years with Zee Kashmir as Programme Director Associate Director in Film “Kashmir in Search of Kashmiriyat” for Films Division I&B Ministry of India. Kashmir Line producer of bollywood Film “Chase” Directed by Hollywood Director Mr. Jag Mohan Mundra. Programme Director Live Video coverage 70th AGM year 2008 J&K Bank.</h6>
+        </div>
     </div>
+ 
     
     
 </div>

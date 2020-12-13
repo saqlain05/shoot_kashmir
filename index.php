@@ -421,14 +421,14 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY class="videoaw" width="100%" heig
                 </div>
                 <!-- end service -->
             </div><!-- end row -->
-            <div class="row">
+            <div class="row" style="margin-top:3rem;">
 			<div class="col-12 col-s-12 mt-40 text-center">
 						<h3 class="cheading"><span>Contact Now</span></h3>
 						<p class="lead mb-30">Lorem ipsum dolor sit amet, consectetur adipis cing elit, sed do
 eiusmod. tempor incididunt ut labore et dolore</p>
 					</div>
 				</div>
-				<div class="row">
+				<!-- <div class="row">
 					<div class="col-md-4 col-s-4">
 						<div class="contact-box">
 							<i class="fas fa fa-phone cfont"></i><br>
@@ -464,51 +464,155 @@ eiusmod. tempor incididunt ut labore et dolore</p>
 							<a href="#" class="cbtn btn">shootkashmir3@gmail.com</a>
 						</div>
 					</div>
+				</div> -->
+                <div class="row" >
+				<div class="col-md-offset-1 col-sm-10 col-md-10 col-sm-offset-1 pd-add" id="saq_div">
+					<div class="address-item" id="saq_item">
+						<div class="address-icon">
+							<i class="icon icon-location2"></i>
+						</div>
+						<h3>Address</h3>
+						<p>Baran Pathar, Haftchinar, Hotel New Sunshine, stadium Road,
+							Iqbal Park, Srinagar - 190009 , Kashmir, India</p>
+					</div>
+					<div class="address-item" id="saq_item">
+						<div class="address-icon">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</div>
+						<h3>Email Us</h3>
+						<p>irshad.bashir007@gmail.com
+							 </p>
+					</div>
+					<div class="address-item"  id="saq_item">
+						<div class="address-icon">
+							<i class="icon icon-headphones"></i>
+						</div>
+						<h3>Call Us</h3>
+						<p>+91 9419018941
+							<br> www.shootkashmir.com  </p>
+					</div>
 				</div>
+			</div>
+			
           
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div id="testimonials" class="parallax section db parallax-off" style="background-image:url('uploads/parallax_03.jpg');">
-        
+    <div id="testimonials" class="parallax section db parallax-off" style="background-image:url('../uploads/parallax_03.jpg');">
+        <div class="container">
+            <div class="section-title text-center">
+                <h3>Testimonials</h3>
+                <p class="lead">We thanks for all our awesome testimonials! There are hundreds of our happy customers! <br>Let's see what others say about GoodWEB Solutions website template!</p>
+            </div><!-- end title -->
 
             <div class="row">
-                <div class="col-xl-6 col-s-12">
-                            <div class="section-title text-center pb-60">
-                                <div class="h2-section-title testimonials-tittle">
-                                    <h2><span>Testimonials</span></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur <br>
-adipis cing elit, sed do eiusmod.</p>
-                                </div>
+                <div class="col-md-12 col-sm-12">
+                    <div class="testi-carousel owl-carousel owl-theme">
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
+                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
                             </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_01.png" alt="" class="img-responsive alignleft">
+                                <h4>James Fernando <small>- Manager of Racer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
                         </div>
-                    </div>
-                    <!-- Testimonials -->
-                    <div class="row align-items-center">
-                    	 
+                        <!-- end testimonial -->
 
-                        <div class="col-xl-12 col-s-18 col-lg-12">
-                        	<div class="test-full-box">
-	                            <div class="testmonial-item-active">
-	                                <!-- testimonial-single-items -->
-									<div class="h2-section-title testimonials-tittle ">
-	                                    <!-- <i class="fas fa-quote-left"></i> -->
-	                                    <p class="section-title text-center pb-40 lead">But I must dolor sit amet, consectetur adipisicing elit, sed do.</p>
-	                                    <p class="section-title text-center pb-40 lead">Ut enim ad minim veniam, quis nostrud exercitation ullamco Lorem ipsum dolor sit amet,<br> consectetur adipisicing elit, sed do eiusmod tempor incididuntut labore et dolore magna aliqua.<br> laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderitin voluptate <br>velit esse cillum dolore eu fugiat nulla pariatur.</p>
-	                                </div>	                                	                                
-	                            </div>
-	                            <!-- testmonial-image -->
-	                           
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
+                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
                             </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_02.png" alt="" class="img-responsive alignleft">
+                                <h4>Jacques Philips <small>- Designer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
                         </div>
+                        <!-- end testimonial -->
+
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
+                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_03.png" alt="" class="img-responsive alignleft">
+                                <h4>Venanda Mercy <small>- Newyork City</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end testimonial -->
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
+                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_01.png" alt="" class="img-responsive alignleft">
+                                <h4>James Fernando <small>- Manager of Racer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end testimonial -->
+
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
+                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_02.png" alt="" class="img-responsive alignleft">
+                                <h4>Jacques Philips <small>- Designer</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div>
+                        <!-- end testimonial -->
+
+                        <div class="testimonial clearfix">
+                            <div class="desc">
+                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
+                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
+                            </div>
+                            <div class="testi-meta">
+                                <img src="uploads/testi_03.png" alt="" class="img-responsive alignleft">
+                                <h4>Venanda Mercy <small>- Newyork City</small></h4>
+                            </div>
+                            <!-- end testi-meta -->
+                        </div><!-- end testimonial -->
+                    </div><!-- end carousel -->
+                </div><!-- end col -->
             </div><!-- end row -->
 
             <hr class="hr1">
 
-         
+            <!-- <div class="row logos">
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="../uploads/logo_01.png" alt="" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="../uploads/logo_02.png" alt="" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="../uploads/logo_03.png" alt="" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="../uploads/logo_04.png" alt="" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="../uploads/logo_05.png" alt="" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="../uploads/logo_06.png" alt="" class="img-repsonsive"></a>
+                </div>
+            </div> -->
+            <!-- end row -->
 
         </div><!-- end container -->
-    </div><!-- end section -->
+    </div>
 
     <footer class="footer">
         <div class="container">
@@ -587,4 +691,16 @@ adipis cing elit, sed do eiusmod.</p>
     <script src="js/hoverdir.js"></script>    
 
 </body>
+<style>
+ #saq_item{
+        height:30rem;
+        width:28rem;
+    }
+    #saq_div{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-wrap:wrap;
+        gap:.5rem
+    }</style>
 </html>

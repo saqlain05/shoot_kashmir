@@ -36,7 +36,7 @@ require_once 'common/navBar.php';
             <div class="saq_div">
                 <div class="img">
                 <!-- <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a> -->
-                    <img src="servicesimages/s1.jpg" alt="missing" class="images">
+                    <img src="servicesimages/s2.png" alt="missing" class="images">
                 </div>
                 <div class="items">
                 <h3>Location And Scouting</h3>
@@ -48,7 +48,7 @@ require_once 'common/navBar.php';
             <div class="saq_div">
                 <div class="img">
                 <!-- <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a> -->
-                    <img src="servicesimages/s2.png" alt="missing" class="images">
+                    <img src="servicesimages/s12.png" alt="missing" class="images">
                 </div>
                 <div class="items">
                 <h3>Permission & Permits</h3>
@@ -60,7 +60,7 @@ require_once 'common/navBar.php';
             <div class="saq_div">
                 <div class="img">
                 <!-- <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a> -->
-                    <img src="servicesimages/s3.png" alt="missing" class="images">
+                    <img src="servicesimages/s4.jpg" alt="missing" class="images">
                 </div>
                 <div class="items">
                 <h3>Security & Safty</h3>
@@ -72,7 +72,7 @@ require_once 'common/navBar.php';
             <div class="saq_div">
                 <div class="img">
                 <!-- <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a> -->
-                    <img src="servicesimages/s4.jpg" alt="missing" class="images">
+                    <img src="servicesimages/s3.png" alt="missing" class="images">
                 </div>
                 <div class="items">
                 <h3>TALENT & CASTING</h3>
@@ -84,7 +84,7 @@ require_once 'common/navBar.php';
             <div class="saq_div">
                 <div class="img">
                 <!-- <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a> -->
-                    <img src="servicesimages/s5.png" alt="missing" class="images">
+                    <img src="servicesimages/s10.png" alt="missing" class="images">
                 </div>
                 <div class="items">
                 <h3>BUDGETING & ACCOUNTING</h3>
@@ -96,7 +96,7 @@ require_once 'common/navBar.php';
             <div class="saq_div">
                 <div class="img">
                 <!-- <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a> -->
-                    <img src="servicesimages/s6.jpg" alt="missing" class="images">
+                    <img src="servicesimages/s5.png" alt="missing" class="images">
                 </div>
                 <div class="items">
                 <h3>TRAVEL & TRANSPORTATION</h3>
@@ -119,7 +119,7 @@ require_once 'common/navBar.php';
             <div class="saq_div">
                 <div class="img">
                 <!-- <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a> -->
-                    <img src="servicesimages/s7.png" alt="missing" class="images">
+                    <img src="servicesimages/s1.jpg" alt="missing" class="images">
                 </div>
                 <div class="items">
                 <h3>MEN AND MACHINERY</h3>
@@ -143,7 +143,7 @@ require_once 'common/navBar.php';
             <div class="saq_div">
                 <div class="img">
                 <!-- <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a> -->
-                    <img src="servicesimages/s10.png" alt="missing" class="images">
+                    <img src="servicesimages/s11.png" alt="missing" class="images">
                 </div>
                 <div class="items">
                 <h3>EQUPIMENT RENTALS</h3>
@@ -163,7 +163,7 @@ require_once 'common/navBar.php';
             <div class="saq_div">
                 <div class="img">
                 <!-- <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a> -->
-                    <img src="servicesimages/s11.png" alt="missing" class="images">
+                    <img src="servicesimages/s7.png" alt="missing" class="images">
                 </div>
                 <div class="items">
                 <h3>CATERING</h3>
@@ -179,7 +179,7 @@ require_once 'common/navBar.php';
             <div class="saq_div">
                 <div class="img">
                 <!-- <a href="servicesimages/s1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a> -->
-                    <img src="servicesimages/s12.png" alt="missing" class="images">
+                    <img src="servicesimages/s6.jpg" alt="missing" class="images">
                 </div>
                 <div class="items">
                 <h3>ACCOMIDATION</h3>

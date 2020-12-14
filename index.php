@@ -224,8 +224,8 @@
                                             </div>
 										
                                         <div class="progress">
-                                            <div class="progress-bar wow slideInLeft" role="progressbar" style="width: 80%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" data-wow-duration="1s" data-wow-delay=".5s">
-                                                <span><span>80%</span></span>
+                                            <div class="progress-bar wow slideInLeft" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" data-wow-duration="1s" data-wow-delay=".5s">
+                                                <span><span>100%</span></span>
                                             </div>
                                         </div>
                                     </div>
@@ -236,8 +236,19 @@
                                             </div>
 										
                                         <div class="progress">
-                                            <div class="progress-bar wow slideInLeft" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" data-wow-duration="1s" data-wow-delay=".5s">
-                                                <span><span>75%</span></span>
+                                            <div class="progress-bar wow slideInLeft" role="progressbar" style="width: 85%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" data-wow-duration="1s" data-wow-delay=".5s">
+                                                <span><span>85%</span></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="single-skill mb-40">
+                                        											<div class="bar-title">
+                                                <h4>Location</h4>
+                                            </div>
+										
+                                        <div class="progress">
+                                            <div class="progress-bar wow slideInLeft" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" data-wow-duration="1s" data-wow-delay=".5s">
+                                                <span><span>100%</span></span>
                                             </div>
                                         </div>
                                     </div>
